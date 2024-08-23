@@ -13,6 +13,7 @@ Bienvenue sur mon profil GitHub ! Je m'appelle **Vexato** et j'ai 16 ans. Je sui
 ## :mailbox: Me Contacter
 
 - **Discord** : [vexato](https://discord.com/users/vexato)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=937352018526347284)
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets intéressants !
 
