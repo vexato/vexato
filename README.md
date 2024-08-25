@@ -22,7 +22,7 @@ N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez c
 Voici quelques-uns de mes projets récents :
 
 - **[SpendGuard](https://spendguard.live)** : suivez et tracker vos dépenses.
-- **[Rp-nations Discord ](https://discord.gg/b9J862Khcm)** [Rp-nations website](https://rpnations.live) : simulation de relation diplomatique etc.
+- **[Rp-nations Discord ](https://discord.gg/b9J862Khcm)** / ** [Rp-nations website](https://rpnations.live) **: simulation de relation diplomatique etc.
 
 ## :chart_with_upwards_trend: Statistiques
 
