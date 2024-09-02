@@ -8,6 +8,7 @@ Bienvenue sur mon profil GitHub ! Je m'appelle **Vexato** et j'ai 16 ans. Je sui
 - **CSS** : Création de styles élégants et responsives.
 - **Tailwind CSS** : Utilisation de cette bibliothèque pour des designs modernes et rapides.
 - **Vue.js** : Développement d'applications web interactives avec ce framework puissant.
+- **Next.js** : Développement d'applications web optimisées avec rendu côté serveur (SSR) et génération statique (SSG) pour une meilleure performance. Utilisation de l'API Routes et des fonctionnalités avancées comme **ISR** (Incremental Static Regeneration) et **dynamic routing**. Configuration et gestion des API RESTful via les **API Routes** intégrées.
 - **Python** : Programmation en Python pour divers projets et automatisations.
 
 ## :mailbox: Me Contacter
