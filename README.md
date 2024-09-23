@@ -24,6 +24,7 @@ Voici quelques-uns de mes projets récents :
 
 - **[SpendGuard](https://spendguard.live)** : suivez et tracker vos dépenses.
 - **[Rp-nations Discord ](https://discord.gg/b9J862Khcm)**  / **[Rp-nations website](https://rpnations.live)**: simulation de relation diplomatique etc.
+- **[Skin3d Viewer](https://market.azuriom.com/resources/148)
 
 ## :chart_with_upwards_trend: Statistiques
 
