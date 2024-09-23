@@ -28,5 +28,10 @@ Voici quelques-uns de mes projets récents :
 ## :chart_with_upwards_trend: Statistiques
 
 ![Vexato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexato&show_icons=true&hide_title=true&count_private=true&hide=prs)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@74b92aa1-c514-4135-9d81-1008e8a13e79/c90a020f-9e8d-46f9-a3c6-f5fa7e8709ac.png" /></a>
+
+
+
+<img src="https://wakatime.com/share/@74b92aa1-c514-4135-9d81-1008e8a13e79/c90a020f-9e8d-46f9-a3c6-f5fa7e8709ac.png" />
+
+
 Merci de visiter mon profil ! Je suis toujours ouvert aux nouvelles opportunités et aux collaborations intéressantes. :rocket:
