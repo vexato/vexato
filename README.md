@@ -32,7 +32,7 @@ Voici quelques-uns de mes projets récents :
 
 
 
-<img src="https://wakatime.com/share/@74b92aa1-c514-4135-9d81-1008e8a13e79/c90a020f-9e8d-46f9-a3c6-f5fa7e8709ac.png" />
+<figure><embed src="https://wakatime.com/share/@74b92aa1-c514-4135-9d81-1008e8a13e79/aa118499-f7b5-4c9e-8d49-7449788efb02.svg"></embed></figure>
 
 
 Merci de visiter mon profil ! Je suis toujours ouvert aux nouvelles opportunités et aux collaborations intéressantes. :rocket:
