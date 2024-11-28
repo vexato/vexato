@@ -13,9 +13,7 @@ Bienvenue sur mon profil GitHub ! Je m'appelle **Vexato** et j'ai 16 ans. Je sui
 
 ## :mailbox: Me Contacter
 
-- **Discord** : [vexato](https://discord.com/users/vexato)
-![](https://dcbadge.limes.pink/api/shield/937352018526347284)
-
+ [![Discord Presence](https://lanyard.cnrad.dev/api/937352018526347284)](https://discord.com/users/937352018526347284)
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets intéressants !
 
 ## :rocket: Projets Récents
