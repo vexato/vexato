@@ -15,13 +15,6 @@
 | **[CentralCorp](https://github.com/CentralCorp)** | Organisation dédiée aux outils Minecraft. | Co-fondateur / Dev |
 
 ---
-### :chart_with_upwards_trend: Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vexato&show_icons=true&theme=cobalt&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexato&layout=compact&theme=cobalt" height="180px" />
-</p>
-
----
 
 ### :mailbox: Me Contacter
 
