@@ -16,10 +16,9 @@
 
 ---
 ### :chart_with_upwards_trend: Statistiques GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vexato&show_icons=true&theme=cobalt&count_private=true" alt="Stats de Vexato" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexato&layout=compact&theme=cobalt&langs_count=6" alt="Langages les plus utilisés" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vexato&show_icons=true&theme=cobalt&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexato&layout=compact&theme=cobalt" height="180px" />
 </p>
 
 ---
