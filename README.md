@@ -13,7 +13,7 @@
 
 | Projet | Description | Impact / Rôle |
 | :--- | :--- | :--- |
-| **[Skin3d Viewer](https://market.azuriom.com/resources/148)** | Extension Azuriom pour visualiser les skins en 3D. | **+2 000** téléchargements |
+| **[Skin3d Viewer](https://market.azuriom.com/resources/148)** | Extension Azuriom pour visualiser les skins en 3D. | **+2 300** téléchargements |
 | **[Calendar](https://market.azuriom.com/resources/179)** | Système de calendrier entièrement configurable. | Plugin Azuriom |
 | **[Form](https://market.azuriom.com/resources/191)** | Extension permettant de créer des formulaires personnalisés. | Plugin Azuriom |
 | **[API-Extender](https://market.azuriom.com/resources/167)** | Ajout d'endpoint API. | Plugin Azuriom |
