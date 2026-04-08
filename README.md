@@ -8,8 +8,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ---
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SXnDYuPbcg)
-
+<div align="center">
+  <a href="https://discord.gg/SXnDYuPbcg">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Button">
+  </a>
+</div>
 ### :rocket: Projets Récents
 
 | Projet | Description | Impact / Rôle |
